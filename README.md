@@ -3,7 +3,7 @@
 <h1 align="center">Postman-Challenge Gssoc Ext</h1>
 <div align="center">
   
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section ---->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <a href="https://github.com/GSSoC24/Postman-Challenge/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24/Postman-Challenge" alt="Stars Badge"/></a>
